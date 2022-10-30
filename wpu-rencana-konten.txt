@@ -5,7 +5,6 @@ Rencana Konten WPU
   * Framework Javascript
    ^Vue
    ^React
-  
 - Struktur Data Dasar
 - PHP Framework
 - Interview
